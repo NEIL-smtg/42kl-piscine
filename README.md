@@ -26,6 +26,9 @@
 12. [C Rush00](https://github.com/NEIL-smtg/42kl-piscine/tree/main/rush00)
 13. [C Rush01](https://github.com/NEIL-smtg/42kl-piscine/tree/main/rush01)
 
+## PDF
+[PDF](https://github.com/NEIL-smtg/42kl-piscine/tree/main/PDF)
+
 ## Resources to get prepared using your own PC
 1. [42 Norminette setup](https://github.com/42School/norminette)
 2. [42 Header Setup](https://github.com/42Paris/42header)
