@@ -22,7 +22,7 @@
 8. [C06](https://github.com/NEIL-smtg/42kl-piscine/tree/main/C06)
 9. [C07](https://github.com/NEIL-smtg/42kl-piscine/tree/main/C07)
 10. [C08](https://github.com/NEIL-smtg/42kl-piscine/tree/main/C08)
-11. [C08](https://github.com/NEIL-smtg/42kl-piscine/tree/main/C09)
+11. [C09](https://github.com/NEIL-smtg/42kl-piscine/tree/main/C09)
 12. [C Rush00](https://github.com/NEIL-smtg/42kl-piscine/tree/main/rush00)
 13. [C Rush01](https://github.com/NEIL-smtg/42kl-piscine/tree/main/rush01)
 
